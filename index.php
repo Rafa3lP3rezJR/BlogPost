@@ -12,6 +12,7 @@
 
     <h1>Esta es la cabecera del proyecto</h1>
 
+	<h2>Esta es la versión 3 de nuestro proyecto</h2>
 
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam, aliquid. Ex iste, hic quia rem ipsam sequi ad.
         Dolore deleniti voluptatibus nihil recusandae animi architecto ipsum rem repellat magni id!</p>
