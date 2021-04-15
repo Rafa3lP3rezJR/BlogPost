@@ -24,6 +24,12 @@
 
 	?>
 
+	<footer>
+	
+		<p>Derechos Reservador &copy Rafael Pérez</p>
+	
+	</footer>
+
 </body>
 
 </html>
